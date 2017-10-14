@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recipe_padding">20dp</dimen>
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="exo_width">500dp</dimen>
+    <dimen name="recipe_margin">5dp</dimen>
+    <dimen name="widget_margin">0dp</dimen>
+</resources>

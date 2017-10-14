@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#FFAB40</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ingredientColor">#FFB74D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="select_color">#FFCC80</color>
+    <color name="view_color">#935c35</color>
+    
+</resources>

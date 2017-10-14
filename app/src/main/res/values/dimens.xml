@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recipe_padding">20dp</dimen>
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="exo_width">300dp</dimen>
+    <dimen name="recipe_margin">0dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+</resources>
