@@ -1,5 +1,5 @@
 ## Description
-BackingApp is cooking Android application that displays cooking recipes along with their steps,ingredients and videos.
+BackingApp is cooking Android application that displays cooking recipes along with their steps, ingredients and videos.
 
 ## Intended User
 This app for everyone who loves cooking.
